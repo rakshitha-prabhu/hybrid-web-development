@@ -1,0 +1,93 @@
+.body {
+    height: 95%;
+  }
+.details {
+    border: solid rgb(200, 163, 149);
+    border-radius: 4px;
+    position: relative;
+    text-align: center;
+    margin: 0%;
+    display: flex;
+    background-color: beige;
+    background-size: cover;
+    position: relative;
+    height: 20%;
+  }
+.text {
+    position: absolute;
+    width: 80%;
+    display: inline-block;
+    top:24%;
+    padding: 0%;
+    margin: 0px;
+    font-size: 5.5vw;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(232, 217, 227);
+    left: 0%;
+  }
+.body {
+    position: absolute;
+    height: 80%;
+    width: 100%;
+    display: flex;
+  }
+.menu {
+    width: 20%;
+  }
+.item{
+      padding:20px;
+      height:fit-content;
+      font-size: 13px;
+      color:black;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+
+  }
+.main {
+    width: 60%;
+    word-spacing: 0.2vw;
+  }
+.mainitem{
+      font-size: 2.4vw; 
+      font-family: 'Times New Roman', Times, serif;
+      color:burlywood  
+  }
+
+.mainitem>p{
+      line-height: 4vw;
+      color:rgb(3, 3, 3);
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
+.right {
+    height: 100%;
+    width: 20%;
+    font-size: 2vw;
+  }
+.rightitem{
+      margin-bottom: 0%;
+      padding: 0.5vw;
+  }
+.input{
+      width: 17vw;
+      height:2vw;
+      padding: 0.3vw;
+      border: 0.2vw solid rgb(180, 149, 149);
+      margin: 0.5vw;}
+.button{
+    background-color: rgb(233, 215, 215);
+    border:solid #ecb2b2;
+    color:rgb(236, 185, 185);
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10pxpx;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px; }
+.button:hover{
+      text-decoration: underline;
+      background-color:rgb(101, 150, 174);
+      cursor: pointer;}
+.button:active{
+      background-color: rgb(158, 158, 211);
+      color:lightgreen;}
