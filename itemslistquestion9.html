@@ -1,0 +1,43 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+    content="width=device-width,
+    initial-width=1.0">
+    <title>updating table elements</title>
+    <link rel="stylesheet" href="itemslist.css">
+    <style>
+        body {background-color: rgb(204, 151, 134);}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="data">
+            Enter itemname:<input type="text"
+            id="itemname" placeholder="Enter itemname"><br><br>
+            Enter quantity:<input type="number"
+            id="quantity" placeholder="Enter quantity"><br><br>
+            Enter itemcode:<input type="text"
+            id="itemcode" placeholder="Enter itemcode"><br><br>
+            Enter itemprice:<input type="text"
+            id="itemprice" placeholder="Enter itemprice"><br><br>
+            <button id="add">add</button>
+            <button id="calculate">calculate</button>
+        </div>
+        <table id="tab">
+            <tr>
+                <th>items</th>
+                <th>quantity</th>
+                <th>itemcode</th>
+                <th>itemprice</th>
+            </tr>
+            <tr>
+                <th>a</th>
+                <th>1</th>
+                <th>123</th>
+                <th>40</th>
+            </tr>
+        </table>
+        <p id="info"></p>
+    </div>
+    <script src="itemslist.js"></script>
+</body>
