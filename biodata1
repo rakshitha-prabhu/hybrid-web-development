@@ -1,0 +1,47 @@
+<html>
+    <title>
+        BIO DATA
+        </title>
+    <head>
+       BIO DATA   
+    </head>
+        <body>
+        <h1>welcome</h1>
+        <p><ol type="a">
+        <li><strong>Name</strong>:<br>
+         ABC</li><br><br>
+        <li><strong>Date Of Birth</strong>:
+         06/03/2003 </li><br><br>
+        <li><strong>Place of Birth</strong>: 
+        Bangalore</li><br><br>
+        <li><strong>Address</strong>:
+         XYZ</li><br><br>
+        <li><strong>Email Address</strong>: 
+            @gmail.com</li><br><br>
+        <li><strong>Phone Number</strong>:
+         xxx</li><br><br>
+        <li><strong>Achievements</strong>:
+        </li>
+        <ul type="square">
+            <li>P</li>
+            <li>Q</li>
+            <li>R</li>
+            <li>S</li>
+        </ul></li></ol>
+        <p><table><table border="2">
+    <tr>
+        <td>Qualification</td>
+        <td> 10th CBSE<br> 12th CBSE</td>
+    </tr>
+    <tr>
+        <td>Degree</td>
+        <td>BE in xyz</td>
+    </tr>
+</table>
+</p>
+<img src="catan.png" height="100cm" width="">
+<br><br>
+<input type="submit" href="submit">
+<input type="reset" href="reset">
+</body>
+</html>
