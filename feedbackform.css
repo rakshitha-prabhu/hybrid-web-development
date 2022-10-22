@@ -1,0 +1,16 @@
+table, th, td {
+    padding: 15px;
+    text-align: left;
+    width: 90%;
+    border-bottom: solid pink;
+  }
+.feedback{
+    text-decoration: underline;
+}
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body{
+    background-color:lightgreen;
+}
+
