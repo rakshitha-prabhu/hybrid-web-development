@@ -1,0 +1,25 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#data{
+    margin-bottom: 12px;
+}
+#data input,button{
+    padding: 10px;
+    width: 90px;
+}
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(104, 161, 104);
+    text-align: center;
+}
+.text{
+    text-shadow: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-color: rgb(156, 203, 219);
+    text-transform: uppercase;
+    color:rgb(40, 135, 183)
+}
